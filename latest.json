@@ -1,11 +1,11 @@
 {
-"version": "2.0.6",
-"notes": "FeCore 2.0.6",
-"pub_date": "2026-05-06T00:16:22Z",
+"version": "2.0.7",
+"notes": "FeCore 2.0.7",
+"pub_date": "2026-05-06T01:53:39Z",
 "platforms": {
 "windows-x86_64": {
-"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGtDMUpETklVbjNPNDhUbVoyWHZkVTJTb3pEUlhaTnVaUmVKQVdDTmM4d2J6WUtvWUUzcS9TQVZWRHpZMHJlYU94bXRxNHgwQXFoa21ieVlTQ1VndjEyV29qQjBrWndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDI2NTc1CWZpbGU6RmVDb3JlXzIuMC42X3g2NC1zZXR1cC5uc2lzLnppcApTYUk5aGVPdDJmaVRPWlBUd2JxNHNVaDk3SzBCY2hCZTBCeUhaNVVLczN0NjBWelB3cFYxNlRhbzRaL2JuQTRVUzl4alRTRFZ0TE5LeldjbWp5WS9Bdz09Cg==",
-"url": "https://github.com/yennor-devdeals/FeCoreByYMSolutions/releases/download/v2.0.6/FeCore_2.0.6_x64-setup.nsis.zip"
+"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdGtDMUpETklVbitlTk1uQ3JBakx3dXFDUExwMXlPNi9XZVZzL2tNa014d3VzcmtaSHZRZWtTR2ZraisyaU43VGpWZC9lTy9qMEhBOHlSdERxUWJHWk5oanByWk9NRlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MDMyNDE0CWZpbGU6RmVDb3JlXzIuMC43X3g2NC1zZXR1cC5uc2lzLnppcAppMmZ1U3NWUXdVeFdEWGYxM0c2Q25WTC91a3JwQjRmWGdwOWRORXFsSjdYeEIvS28xN2txQ2JOd3Z4OGUrcXBWMHcvZlNNcHVYcGpZTXFGbFc4WnFCUT09Cg==",
+"url": "https://github.com/yennor-devdeals/FeCoreByYMSolutions/releases/download/v2.0.7/FeCore_2.0.7_x64-setup.nsis.zip"
 }
 }
 }
